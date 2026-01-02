@@ -17,12 +17,10 @@ Questo progetto è un'applicazione Java basata su **Spring Boot** progettata per
 Per i test in ambiente locale si raccomanda l'uso di **smtp4dev**.
 
 1. **Installazione**:
-   ```bash
-   winget install smtp4dev
+   ```bash winget install smtp4dev
 
 2. **Avvio**:
-   ```bash
-   winget install smtp4dev
+   ```bash Rnwood.Smtp4dev
 
 3. **Configurazione smtp4dev**:
    - Accedere alle impostazioni (icona ingranaggio in alto a destra)
