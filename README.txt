@@ -7,11 +7,11 @@ Questo progetto è un'applicazione Java basata su **Spring Boot** progettata per
 * **Misurazioni**: Calcolo automatico di tempi **minimi, massimi e medi** di delivery.
 * **Payload**: Analisi dell'impatto dimensionale del messaggio (corpo testo + allegati Multipart).
 
-## 🛠️ Requisiti Tecnici
+## Requisiti Tecnici
 * **Java**: 17 o superiore.
 * **Build Tool**: Maven
 
-## 📦 Installazione e Configurazione
+## Installazione e Configurazione
 
 ### 1. Configurazione del Server SMTP (smtp4dev)
 Per i test in ambiente locale si raccomanda l'uso di **smtp4dev**.
