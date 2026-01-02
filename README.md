@@ -8,8 +8,11 @@ Tool progettato per eseguire benchmark prestazionali su servizi SMTP. Esso consi
 * **Payload**: Analisi dell'impatto dimensionale del messaggio (corpo testo + allegati)
 
 ## Tecnologie
-* **Java**: 17 o superiore
-* Maven
+* **Java 21 +**
+* **Maven**
+* **Spring Boot 4.0.1**.
+* **Thymeleaf**
+* **JavaMail API**
 
 ## Installazione e Configurazione
 
