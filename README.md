@@ -9,7 +9,7 @@ Questo progetto è un'applicazione Java basata su **Spring Boot** progettata per
 
 ## Tecnologie
 * **Java**: 17 o superiore.
-* **Build Tool**: Maven
+* Maven
 
 ## Installazione e Configurazione
 
