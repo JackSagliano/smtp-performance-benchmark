@@ -2,7 +2,7 @@
 
 Questo progetto è un'applicazione Java basata su **Spring Boot** progettata per eseguire benchmark prestazionali su servizi SMTP. Il tool permette di misurare l'efficienza dell'invio e analizzare come la dimensione dei messaggi (inclusi allegati) influenzi i tempi di consegna.
 
-## 📋 Funzionalità
+## Funzionalità
 * **Autenticazione**: Supporto completo per servizi SMTP con credenziali username/password.
 * **Misurazioni**: Calcolo automatico di tempi **minimi, massimi e medi** di delivery.
 * **Payload**: Analisi dell'impatto dimensionale del messaggio (corpo testo + allegati Multipart).
