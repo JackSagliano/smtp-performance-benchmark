@@ -26,7 +26,6 @@ Per i test in ambiente locale si raccomanda l'uso di **smtp4dev**
 2. **Avvio**:
    ```bash
    Rnwood.Smtp4dev
-   ```bash
    http://localhost:5000
 
 3. **Configurazione autenticazione**:
