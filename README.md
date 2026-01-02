@@ -1,6 +1,6 @@
 # SMTP Benchmark Tool
 
-Tool progettato per eseguire benchmark prestazionali su servizi SMTP. Esso consiste nell'inviare N messaggi ad un servizio SMTP per calcolarne i tempi minimi, massimi e medi di recezione da parte del server, sulla base di fattori come il numero di messaggi inviati e la grandezza (in byte) del corpo del messaggio.
+Tool progettato per eseguire benchmark prestazionali su servizi SMTP. Esso consiste nell'inviare N messaggi ad un servizio SMTP per calcolarne i tempi minimi, massimi e medi di recezione da parte del servizio SMTP, sulla base di fattori come il numero di messaggi inviati e la grandezza (in byte) del corpo del messaggio.
 
 ## Funzionalità
 * **Autenticazione**: Supporto completo per servizi SMTP con credenziali username/password
