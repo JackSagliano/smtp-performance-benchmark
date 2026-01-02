@@ -25,6 +25,7 @@ Per i test in ambiente locale si raccomanda l'uso di **smtp4dev**.
    Rnwood.Smtp4dev
 
 3. **Configurazione autenticazione**:
+
    - Accedere alle impostazioni (icona ingranaggio in alto a destra)
    - Nella sezione SMTP Server, disabilitare l'opzione "Allow Any Credentials".
    - Nella sezione Users, aggiungere le credenziali da utilizzare nel form di login dell'app.
