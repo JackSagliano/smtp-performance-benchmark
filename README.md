@@ -26,7 +26,7 @@ Per i test in ambiente locale si raccomanda l'uso di **smtp4dev**
 2. **Avvio**:
    ```bash
    Rnwood.Smtp4dev
-   http://localhost:5000
+  Il servizio rimane in ascolto sulla porta 5000 (di default)
 
 3. **Configurazione autenticazione**:
 
